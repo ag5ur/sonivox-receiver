@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sonivox Receiver Test</string>
+    <string name="title_activity_license">License</string>
+    <string name="title_activity_notice">Copyright Notice</string>
+    <string name="action_license">@string/title_activity_license</string>
+    <string name="action_notice">@string/title_activity_notice</string>
+    <string name="label_switch_midiFileFormat">Midi File</string>
+    <string name="label_switch_sequence">Midi Sequence</string>
+</resources>
